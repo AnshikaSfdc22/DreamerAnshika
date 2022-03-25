@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DreamerAnshika
+- 👋 Hi, I’m @Anshika
 - 👀 I’m interested in Coding and learning somthing different which i future requirment.
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
